@@ -1,5 +1,5 @@
 
- ![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=Hi%20I'm%20Doyeon&color=0:b4e5f5,100:2ba8e0&fontColor=black)
+ ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hi%20I'm%20Doyeon&color=0:b4e5f5,80:2ba8e0&fontColor=87CEEB&fontSize=80&fontAlignY=38&desc=Welcome%20to%20my%20GitHub!&descAlignY=60&descAlign=50&descSize=30)
 
 ---
 ### ✨ Dev logs
