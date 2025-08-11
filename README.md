@@ -1,10 +1,5 @@
 
- <!-- 중앙 타이핑 -->
-  <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=900&color=3BB2E0&center=true&vCenter=true&width=900&height=55&lines=Hi%2C+I'm+Doyeon;Backend+%26+AI+Developer"
-      alt="Typing intro">
-  </div>
+ ![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=Hi%20I'm%20Doyeon&color=0:b4e5f5,100:2ba8e0&fontColor=black)
 
 ---
 ### ✨ Dev logs
